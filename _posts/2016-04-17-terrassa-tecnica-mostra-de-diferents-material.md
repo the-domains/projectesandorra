@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Materials: Werzalit Passeo i Loseta, fusta tractada autoclau i perfil Structura!'
-datePublished: '2016-04-17T13:31:03.801Z'
-dateModified: '2016-04-17T13:23:33.993Z'
+datePublished: '2016-04-17T13:32:24.469Z'
+dateModified: '2016-04-17T13:31:05.480Z'
 title: 'Terrassa tècnica '
 author: []
+sourcePath: _posts/2016-04-17-terrassa-tecnica-mostra-de-diferents-material.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-17-terrassa-tecnica-mostra-de-diferents-material.md
-published: true
 url: terrassa-tecnica-mostra-de-diferents-material/index.html
 _type: Article
 

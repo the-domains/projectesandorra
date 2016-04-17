@@ -4,7 +4,7 @@
         <description><![CDATA[ProjectesAndorra]]></description>
         <link>https://thegrid.ai/projectesandorra/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 21:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 21:21:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/projectesandorra/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[CONTACTE]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/projectesandorra/301fc3f3-22aa-433b-abf5-6a8c19c4896b/index.html</link>
             <guid isPermaLink="false">301fc3f3-22aa-433b-abf5-6a8c19c4896b</guid>
             <pubDate>Sun, 17 Apr 2016 21:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>hola que tal</p>]]></description>
-            <link>https://thegrid.ai/projectesandorra/hola-que-tal/index.html</link>
-            <guid isPermaLink="false">d36937ac-d2a3-407e-a0f4-40c9378bec90</guid>
-            <pubDate>Sun, 17 Apr 2016 21:00:24 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'MATERIALS: Fustes i Derivats s.l'
-datePublished: '2016-04-17T13:23:32.596Z'
-dateModified: '2016-04-17T13:21:32.113Z'
-title: Terrassa tècnica (Mostra de diferents Material
+description: 'Materials: Werzalit Passeo i Loseta, fusta tractada autoclau i perfil Structura!'
+datePublished: '2016-04-17T13:31:03.801Z'
+dateModified: '2016-04-17T13:23:33.993Z'
+title: 'Terrassa tècnica '
 author: []
 authors: []
 publisher:

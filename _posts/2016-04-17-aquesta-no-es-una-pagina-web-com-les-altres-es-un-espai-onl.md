@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-17T13:57:58.503Z'
-dateModified: '2016-04-17T13:56:17.831Z'
+datePublished: '2016-04-17T13:59:30.768Z'
+dateModified: '2016-04-17T13:58:54.292Z'
 title: 'Espai Online per Arquitectes, Dissenyadors, Fusteries'
 author: []
 sourcePath: _posts/2016-04-17-aquesta-no-es-una-pagina-web-com-les-altres-es-un-espai-onl.md

@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Embelliment de la façana de Fustes i Derivats s.l amb Werzalit Selekta 155! '
-datePublished: '2016-04-17T13:08:07.455Z'
-dateModified: '2016-04-17T13:07:44.566Z'
-title: 'Projecte Werzalit : Façana de Fustes i Derivats s.l'
+datePublished: '2016-04-17T13:32:06.857Z'
+dateModified: '2016-04-17T13:31:45.506Z'
+title: Façana de Fustes i Derivats s.l
 author: []
+sourcePath: _posts/2016-04-17-projecte-werzalit-facana-de-fustes-i-derivats-sl.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-17-projecte-werzalit-facana-de-fustes-i-derivats-sl.md
-published: true
 url: projecte-werzalit-facana-de-fustes-i-derivats-sl/index.html
 _type: Article
 

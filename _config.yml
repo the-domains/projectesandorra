@@ -1,6 +1,6 @@
 name: ProjectesAndorra
 favicon: null
-layout_spectrum: 0.264445397304371
+layout_spectrum: 0.00736
 typography_spectrum: 0.8549252033699304
 title: 'On trobar la inspiració i el contacte de qui ho fassi possible!'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.2701325558591634
+  brandStrength: 0.5
   lightness: 0.613163448870182
   saturation: 0.33432933245785534
   rhythmicContrast: 0.9595217769965529

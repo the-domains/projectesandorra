@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: "Aquesta no és una pàgina Web com les altres, és un espai online on exposar idees, projectes realitzats i idees concebudes! Contacta amb Fustes i Derivats s.l o directament amb l'Autor!\_"
-datePublished: '2016-04-17T13:50:40.554Z'
-dateModified: '2016-04-17T13:50:16.291Z'
+description: ''
+datePublished: '2016-04-17T13:57:58.503Z'
+dateModified: '2016-04-17T13:56:17.831Z'
 title: 'Espai Online per Arquitectes, Dissenyadors, Fusteries'
 author: []
 sourcePath: _posts/2016-04-17-aquesta-no-es-una-pagina-web-com-les-altres-es-un-espai-onl.md
@@ -22,4 +22,4 @@ url: aquesta-no-es-una-pagina-web-com-les-altres-es-un-espai-onl/index.html
 _type: Article
 
 ---
-> Aquesta no és una pàgina Web com les altres, és un espai online on Fusteries i Industrials, Arquitectes  i Dissenyadors, poden exposar els seus projectes realitzats i idees concebudes! Contacta amb Fustes i Derivats s.l o directament amb l'Autor
+> Aquesta no és una pàgina Web com les altres, és un espai online on exposar idees, projectes realitzats i idees concebudes! Contacta amb Fustes i Derivats s.l o directament amb l'Autor!
